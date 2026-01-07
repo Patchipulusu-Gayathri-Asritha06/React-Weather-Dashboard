@@ -40,34 +40,35 @@ A modern **React-based Weather Dashboard** that displays real-time weather infor
 
 ## 📁 Project Structure
 
-src/
-├── components/
-│ ├── SearchBar.jsx
-│ ├── SearchHistory.jsx
-│ ├── WeatherCard.jsx
-│ ├── ForecastList.jsx
-│ ├── ForecastItem.jsx
-│ ├── Loader.jsx
-│ └── ErrorMessage.jsx
-│
-├── context/
-│ ├── WeatherContext.jsx
-│ └── weatherReducer.js
-│
-├── hooks/
-│ ├── useWeather.js
-│ └── useLocalStorage.js
-│
-├── services/
-│ └── weatherService.js
-│
-├── utils/
-│ └── formatDate.js
-│
-├── pages/
-│ └── Dashboard.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
+src/ <br/>
+├── components/ <br/>
+│ ├── SearchBar.jsx <br/>
+│ ├── SearchHistory.jsx <br/>
+│ ├── WeatherCard.jsx <br/>
+│ ├── ForecastList.jsx <br/>
+│ ├── ForecastItem.jsx <br/>
+│ ├── Loader.jsx <br/>
+│ └── ErrorMessage.jsx <br/>
+│ <br/>
+├── context/ <br/>
+│ ├── WeatherContext.jsx <br/>
+│ └── weatherReducer.js <br/>
+│ <br/>
+├── hooks/ <br/>
+│ ├── useWeather.js <br/>
+│ └── useLocalStorage.js <br/>
+│ <br/>
+├── services/ <br/>
+│ └── weatherService.js <br/>
+│ <br/>
+├── utils/ <br/>
+│ └── formatDate.js <br/>
+│ <br/>
+├── pages/ <br/>
+│ └── Dashboard.jsx <br/>
+│ <br/>
+├── App.jsx <br/>
+├── main.jsx <br/>
+└── index.css <br/>
+
 
