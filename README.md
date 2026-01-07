@@ -40,3 +40,34 @@ A modern **React-based Weather Dashboard** that displays real-time weather infor
 
 ## 📁 Project Structure
 
+src/
+├── components/
+│ ├── SearchBar.jsx
+│ ├── SearchHistory.jsx
+│ ├── WeatherCard.jsx
+│ ├── ForecastList.jsx
+│ ├── ForecastItem.jsx
+│ ├── Loader.jsx
+│ └── ErrorMessage.jsx
+│
+├── context/
+│ ├── WeatherContext.jsx
+│ └── weatherReducer.js
+│
+├── hooks/
+│ ├── useWeather.js
+│ └── useLocalStorage.js
+│
+├── services/
+│ └── weatherService.js
+│
+├── utils/
+│ └── formatDate.js
+│
+├── pages/
+│ └── Dashboard.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+
