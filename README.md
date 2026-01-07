@@ -79,17 +79,20 @@ src/ <br/>
 ```bash
 git clone https://github.com/your-username/react-weather-dashboard.git
 cd react-weather-dashboard
+```
 
 ### 2️⃣ Install Dependencies
 ```bash
 npm install
+```
 
 ### 3️⃣ Setup Environment Variables
 - Create a .env file in the root directory
 ```bash
 VITE_WEATHER_API_KEY=your_openweathermap_api_key
-
+```
 ### ▶️ Run the Application
 ```bash
 npm run dev
+```
 ---
