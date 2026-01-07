@@ -71,4 +71,12 @@ src/ <br/>
 ├── main.jsx <br/>
 └── index.css <br/>
 
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/react-weather-dashboard.git
+cd react-weather-dashboard
 
